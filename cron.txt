@@ -1,0 +1,17 @@
+#!/bin/bash
+#title          :Scripts
+#description    :Miscellaneous scripts
+#author         :Upwind Concepts Inc.
+#date           :02/09/2022
+#version        :1.3
+
+name="Daniel Oyinloye"
+id=02092022
+
+
+*/2 * * * * /home/devops/scripts/date.sh > /home/devops/scripts/date.log 2>&1
+
+tee
+ll | tee ab.txt
+ll > ll.txt
+script
